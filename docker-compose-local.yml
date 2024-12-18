@@ -1,0 +1,36 @@
+services:
+  java-app:
+    image: whiteriverbay/upay-api:latest
+    container_name: upayapi
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./.config:/opt/conf/upay-api
+      - /etc/hosts:/etc/hosts
+  redis:
+    image: redis:latest
+    container_name: upay-redis
+    restart: always
+    ports:
+      - "6379:6379"
+    env_file:
+      - .env
+    command: ["redis-server", "--requirepass", "${REDIS_PASSWORD}"]
+  mysql:
+    image: mysql:8.0.40
+    container_name: upay-mysql
+    restart: always
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql/data:/var/lib/mysql
+    env_file:
+      - .env
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME}
+      MYSQL_USER: ${DB_USERNAME}
+      MYSQL_PASSWORD: ${DB_PASSWORD}

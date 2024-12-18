@@ -1,0 +1,12 @@
+services:
+  java-app:
+    image: whiteriverbay/upay-api:latest
+    container_name: upayapi
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./.config:/opt/conf/upay-api
+      - /etc/hosts:/etc/hosts
