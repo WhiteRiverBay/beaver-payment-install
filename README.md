@@ -4,7 +4,7 @@
 
 [DOC](https://docs.beaverpayment.com/)
 
-Beaver Payment is a decentralized stable coin checkout system designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your payment processes, ensuring security, privacy, and flexibility.
+Beaver Payment is an independently deployed  stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your payment processes, ensuring security, privacy, and flexibility.
 
 ## 2 Snap
 
