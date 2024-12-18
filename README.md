@@ -12,6 +12,10 @@ Beaver Payment is a decentralized stable coin checkout system designed for busin
 
 ![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s2.png)
 
+## Try the first checkout
+
+[Click here to create an test order](https://example.beaverpayment.com/create-order)
+
 ## Supported Chains
 
 <div style="display: flex; justify-content: space-evenly;">
