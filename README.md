@@ -4,7 +4,7 @@
 
 [DOC](https://docs.beaverpayment.com/)
 
-Beaver Payment is an independently deployed  stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your own payment infrastructure, ensuring security, privacy, and flexibility.
+Beaver Payment is an self-hosted stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your own payment infrastructure, ensuring security, privacy, and flexibility.
 
 ## 2 Checkout UI
 
@@ -16,19 +16,35 @@ Beaver Payment is an independently deployed  stable coin checkout system, design
 
 [Click here to create an test order](https://example.beaverpayment.com/create-order)
 
-## 4 Administrator UI
+## 4 Administrator UI - Desktop App
+
+### Dashboard
 
 ![Dashboard](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x1.png)
 
+### Deposit wallets
+
 ![Deposit Wallets](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x2.png)
+
+
+### Airdrop gas
 
 ![Airdrop Gas](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x3.png)
 
+
+### Collect tokens
+
 ![Collect Token](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x4.png)
+
+### Server status
 
 ![Server Status](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x5.png)
 
+### Trades
+
 ![Trades](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x6.png)
+
+### Settings
 
 ![Settings - Chains](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x7.png)
 
