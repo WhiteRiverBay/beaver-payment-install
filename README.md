@@ -6,7 +6,7 @@
 
 Beaver Payment is an independently deployed  stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your own payment infrastructure, ensuring security, privacy, and flexibility.
 
-## 2 Snap
+## 2 Checkout UI
 
 ![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s1.png)
 
@@ -15,6 +15,24 @@ Beaver Payment is an independently deployed  stable coin checkout system, design
 ## 3 Try the first checkout
 
 [Click here to create an test order](https://example.beaverpayment.com/create-order)
+
+## 4 Administrator UI
+
+![Dashboard](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x1.png)
+
+![Deposit Wallets](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x2.png)
+
+![Airdrop Gas](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x3.png)
+
+![Collect Token](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x4.png)
+
+![Server Status](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x5.png)
+
+![Trades](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x6.png)
+
+![Settings - Chains](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x7.png)
+
+![Settings - Server Settings](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x8.png)
 
 ## Supported Chains
 
