@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Ethereum",
+        "chainId": 1,
+        "symbol": "ETH",
+        "chainName": "Ethereum",
+        "decimals": 18,
+        "rpc": "https://ethereum-rpc.publicnode.com",
+        "explorerUrl": "https://etherscan.io",
+        "usdtContract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "usdtContracts": [{
+            "address"  :"0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "decimals" : 6,
+            "symbol"   : "USDT"
+        }, {
+            "address"  :"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "decimals" : 6,
+            "symbol"   : "USDC"
+        }, {
+            "address"  :"0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+            "decimals" : 6,
+            "symbol"   : "PYUSD"
+        }, {
+            "address"  :"0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "decimals" : 18,
+            "symbol"   : "DAI"
+        }],
+        "usdtDecimals": 6,
+        "usdSymbol": "USDT",
+        "depositDescription": "Please transfer USDT to the following address (CA: 0xdac17f...831ec7) or USDC (CA: 0xa0b869...eb48) and wait for a while.",
+        "description" : {
+            "en-US": "Please transfer USDT to the following address (CA: 0xdac17f...831ec7) or USDC (CA: 0xa0b869...eb48) and wait for a while.",
+            "zh-CN": "请转账USDT到以下地址（CA: 0xdac17f...831ec7）或USDC（CA: 0xa0b869...eb48）并等待一段时间。",
+            "zh-TW": "請轉帳USDT到以下地址（CA: 0xdac17f...831ec7）或USDC（CA: 0xa0b869...eb48）並等待一段時間。",
+            "ja-JP": "次のアドレスにUSDT（CA: 0xdac17f...831ec7）またはUSDC（CA: 0xa0b869...eb48）を送金し、しばらくお待ちください。",
+            "ko-KR": "다음 주소로 USDT를 전송하십시오 (CA: 0xdac17f...831ec7) 또는 USDC (CA: 0xa0b869...eb48) 및 잠시 기다리십시오.",
+            "ru-RU": "Пожалуйста, переведите USDT на следующий адрес (CA: 0xdac17f...831ec7) или USDC (CA: 0xa0b869...eb48) и подождите некоторое время.",
+            "es-ES": "Por favor, transfiera USDT a la siguiente dirección (CA: 0xdac17f...831ec7) o USDC (CA: 0xa0b869...eb48) y espere un momento.",
+            "fr-FR": "Veuillez transférer des USDT à l'adresse suivante (CA: 0xdac17f...831ec7) ou USDC (CA: 0xa0b869...eb48) et attendre un moment.",
+            "de-DE": "Bitte überweisen Sie USDT an die folgende Adresse (CA: 0xdac17f...831ec7) oder USDC (CA: 0xa0b869...eb48) und warten Sie eine Weile.",
+            "it-IT": "Si prega di trasferire USDT all'indirizzo seguente (CA: 0xdac17f...831ec7) o USDC (CA: 0xa0b869...eb48) e attendere un po'.",
+            "pt-BR": "Por favor, transfira USDT para o seguinte endereço (CA: 0xdac17f...831ec7) ou USDC (CA: 0xa0b869...eb48) e aguarde um pouco.",
+            "nl-NL": "Gelieve USDT over te maken naar het volgende adres (CA: 0xdac17f...831ec7) of USDC (CA: 0xa0b869...eb48) en even te wachten.",
+            "tr-TR": "Lütfen USDT'yi aşağıdaki adrese (CA: 0xdac17f...831ec7) veya USDC'ye (CA: 0xa0b869...eb48) transfer edin ve bir süre bekleyin.",
+            "vi-VN": "Vui lòng chuyển USDT đến địa chỉ sau (CA: 0xdac17f...831ec7) hoặc USDC (CA: 0xa0b869...eb48) và đợi một chút.",
+            "th-TH": "โปรดโอน USDT ไปยังที่อยู่ต่อไปนี้ (CA: 0xdac17f...831ec7) หรือ USDC (CA: 0xa0b869...eb48) และรอสักครู่",
+            "id-ID": "Silakan transfer USDT ke alamat berikut (CA: 0xdac17f...831ec7) atau USDC (CA: 0xa0b869...eb48) dan tunggu sebentar.",
+            "ms-MY": "Sila pindahkan USDT ke alamat berikut (CA: 0xdac17f...831ec7) atau USDC (CA: 0xa0b869...eb48) dan tunggu sebentar.",
+            "hi-IN": "कृपया निम्नलिखित पते पर USDT ट्रांसफर करें (CA: 0xdac17f...831ec7) या USDC (CA: 0xa0b869...eb48) और थोड़ी देर इंतजार करें।"
+        }
+    },
+    {
+        "name": "Binance Smart Chain",
+        "chainId": 56,
+        "symbol": "BNB",
+        "chainName": "Binance Smart Chain",
+        "decimals": 18,
+        "rpc" : "https://bsc-dataseed.binance.org", 
+        "explorerUrl": "https://www.binance.org",
+        "usdtContract": "0x55d398326f99059fF775485246999027B3197955",
+        "usdtDecimals": 18,
+        "usdSymbol": "USDT",
+        "usdtContracts": [{
+            "address"  :"0x55d398326f99059fF775485246999027B3197955",
+            "decimals" : 18,
+            "symbol"   : "BSC-USD"
+        }, {
+            "address"  :"0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "decimals" : 18,
+            "symbol"   : "USDC"
+        }],
+        "depositDescription": "Please transfer USDT(CA: 0x55d398...197955) or USDC(CA: 0x8ac76a...cd580d) to the following address  and wait for a while.",
+        "description" :{
+            "en-US": "Please transfer USDT(CA: 0x55d398...197955) or USDC(CA: 0x8ac76a...cd580d) to the following address  and wait for a while.",
+            "zh-CN": "请转账USDT(CA: 0x55d398...197955)或USDC(CA: 0x8ac76a...cd580d)到以下地址并等待一段时间。",
+            "zh-TW": "請轉帳USDT(CA: 0x55d398...197955)或USDC(CA: 0x8ac76a...cd580d)到以下地址並等待一段時間。",
+            "ja-JP": "USDT（CA: 0x55d398...197955）またはUSDC（CA: 0x8ac76a...cd580d）を次のアドレスに送金し、しばらくお待ちください。",
+            "ko-KR": "USDT(CA: 0x55d398...197955) 또는 USDC(CA: 0x8ac76a...cd580d)를 다음 주소로 전송하고 잠시 기다리십시오.",
+            "ru-RU": "Пожалуйста, переведите USDT (CA: 0x55d398...197955) или USDC (CA: 0x8ac76a...cd580d) на следующий адрес и подождите некоторое время.",
+            "es-ES": "Por favor, transfiera USDT (CA: 0x55d398...197955) o USDC (CA: 0x8ac76a...cd580d) a la siguiente dirección y espere un momento.",
+            "fr-FR": "Veuillez transférer des USDT (CA: 0x55d398...197955) ou USDC (CA: 0x8ac76a...cd580d) à l'adresse suivante et attendre un moment.",
+            "de-DE": "Bitte überweisen Sie USDT (CA: 0x55d398...197955) oder USDC (CA: 0x8ac76a...cd580d) an die folgende Adresse und warten Sie eine Weile.",
+            "it-IT": "Si prega di trasferire USDT (CA: 0x55d398...197955) o USDC (CA: 0x8ac76a...cd580d) all'indirizzo seguente e attendere un po'.",
+            "pt-BR": "Por favor, transfira USDT (CA: 0x55d398...197955) ou USDC (CA: 0x8ac76a...cd580d) para o seguinte endereço e aguarde um pouco.",
+            "nl-NL": "Gelieve USDT (CA: 0x55d398...197955) of USDC (CA: 0x8ac76a...cd580d) over te maken naar het volgende adres en even te wachten.",
+            "tr-TR": "Lütfen USDT'yi (CA: 0x55d398...197955) veya USDC'yi (CA: 0x8ac76a...cd580d) aşağıdaki adrese transfer edin ve bir süre bekleyin.",
+            "vi-VN": "Vui lòng chuyển USDT (CA: 0x55d398...197955) hoặc USDC (CA: 0x8ac76a...cd580d) đến địa chỉ sau và đợi một chút.",
+            "th-TH": "โปรดโอน USDT (CA: 0x55d398...197955) หรือ USDC (CA: 0x8ac76a...cd580d) ไปยังที่อยู่ต่อไปนี้และรอสักครู่",
+            "id-ID": "Silakan transfer USDT (CA: 0x55d398...197955) atau USDC (CA: 0x8ac76a...cd580d) ke alamat berikut dan tunggu sebentar.",
+            "ms-MY": "Sila pindahkan USDT (CA: 0x55d398...197955) atau USDC (CA: 0x8ac76a...cd580d) ke alamat berikut dan tunggu sebentar.",
+            "hi-IN": "कृपया निम्नलिखित पते पर USDT (CA: 0x55d398...197955) या USDC (CA: 0x8ac76a...cd580d) ट्रांसफर करें और थोड़ी देर इंतजार करें।"
+            
+        }
+    },
+    {
+        "name": "Base",
+        "chainId": 8453,
+        "symbol": "ETH",
+        "chainName": "Base",
+        "decimals": 18,
+        "rpc": "https://mainnet.base.org",
+        "explorerUrl": "https://basescan.org",
+        "usdtContract": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "usdtDecimals": 6,
+        "usdSymbol": "USDC",
+        "usdtContracts" :[
+            {
+                "address"  :"0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+                "decimals" : 6,
+                "symbol"   : "USDC"
+            }
+        ],
+        "depositDescription": "Please transfer [USDC](CA: 0x833589...A02913)   to the following address and wait for a while.",
+        "description" : {
+            "en-US": "Please transfer [USDC](CA: 0x833589...A02913)   to the following address and wait for a while.",
+            "zh-CN": "请转账[USDC](CA: 0x833589...A02913)到以下地址并等待一段时间。",
+            "zh-TW": "請轉帳[USDC](CA: 0x833589...A02913)到以下地址並等待一段時間。",
+            "ja-JP": "次のアドレスに[USDC](CA: 0x833589...A02913)を送金し、しばらくお待ちください。",
+            "ko-KR": "다음 주소로 [USDC](CA: 0x833589...A02913)를 전송하고 잠시 기다리십시오.",
+            "ru-RU": "Пожалуйста, переведите [USDC](CA: 0x833589...A02913) на следующий адрес и подождите некоторое время.",
+            "es-ES": "Por favor, transfiera [USDC](CA: 0x833589...A02913) a la siguiente dirección y espere un momento.",
+            "fr-FR": "Veuillez transférer [USDC](CA: 0x833589...A02913) à l'adresse suivante et attendre un moment.",
+            "de-DE": "Bitte überweisen Sie [USDC](CA: 0x833589...A02913) an die folgende Adresse und warten Sie eine Weile.",
+            "it-IT": "Si prega di trasferire [USDC](CA: 0x833589...A02913) all'indirizzo seguente e attendere un po'.",
+            "pt-BR": "Por favor, transfira [USDC](CA: 0x833589...A02913) para o seguinte endereço e aguarde um pouco.",
+            "nl-NL": "Gelieve [USDC](CA: 0x833589...A02913) over te maken naar het volgende adres en even te wachten.",
+            "tr-TR": "Lütfen [USDC](CA: 0x833589...A02913) aşağıdaki adrese transfer edin ve bir süre bekleyin.",
+            "vi-VN": "Vui lòng chuyển [USDC](CA: 0x833589...A02913) đến địa chỉ sau và đợi một chút.",
+            "th-TH": "โปรดโอน [USDC](CA: 0x833589...A02913) ไปยังที่อยู่ต่อไปนี้และรอสักครู่",
+            "id-ID": "Silakan transfer [USDC](CA: 0x833589...A02913) ke alamat berikut dan tunggu sebentar.",
+            "ms-MY": "Sila pindahkan [USDC](CA: 0x833589...A02913) ke alamat berikut dan tunggu sebentar.",
+            "hi-IN": "कृपया निम्नलिखित पते पर [USDC](CA: 0x833589...A02913) ट्रांसफर करें और थोड़ी देर इंतजार करें।"
+        }
+    },
+
+    {
+        "name": "Polygon (PoS)",
+        "chainId": 137,
+        "symbol": "POL",
+        "chainName": "Polygon (PoS)",
+        "decimals": 18,
+        "rpc": "https://polygon-rpc.com",
+        "explorerUrl": "https://polygonscan.com",
+        "usdtContract": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "usdtDecimals": 6,
+        "usdSymbol": "USDT",
+        "usdtContracts": [{
+            "address"  :"0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+            "decimals" : 6,
+            "symbol"   : "USDT"
+        }, {
+            "address"  :"0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "decimals" : 6,
+            "symbol"   : "USDC"
+        }],
+        "depositDescription": "Please transfer USDT(CA: 0xc2132d...b58e8f) or USDC(CA: 0x2791bca...2de466) to the following address and wait for a while.",
+        "description": {
+            "en-US": "Please transfer USDT(CA: 0xc2132d...b58e8f) or USDC(CA: 0x2791bca...2de466) to the following address and wait for a while.",
+            "zh-CN": "请转账USDT(CA: 0xc2132d...b58e8f)或USDC(CA: 0x2791bca...2de466)到以下地址并等待一段时间。",
+            "zh-TW": "請轉帳USDT(CA: 0xc2132d...b58e8f)或USDC(CA: 0x2791bca...2de466)到以下地址並等待一段時間。",
+            "ja-JP": "USDT（CA: 0xc2132d...b58e8f）またはUSDC（CA: 0x2791bca...2de466）を次のアドレスに送金し、しばらくお待ちください。",
+            "ko-KR": "USDT(CA: 0xc2132d...b58e8f) 또는 USDC(CA: 0x2791bca...2de466)를 다음 주소로 전송하고 잠시 기다리십시오.",
+            "ru-RU": "Пожалуйста, переведите USDT (CA: 0xc2132d...b58e8f) или USDC (CA: 0x2791bca...2de466) на следующий адрес и подождите некоторое время.",
+            "es-ES": "Por favor, transfiera USDT (CA: 0xc2132d...b58e8f) o USDC (CA: 0x2791bca...2de466) a la siguiente dirección y espere un momento.",
+            "fr-FR": "Veuillez transférer des USDT (CA: 0xc2132d...b58e8f) ou USDC (CA: 0x2791bca...2de466) à l'adresse suivante et attendre un moment.",
+            "de-DE": "Bitte überweisen Sie USDT (CA: 0xc2132d...b58e8f) oder USDC (CA: 0x2791bca...2de466) an die folgende Adresse und warten Sie eine Weile.",
+            "it-IT": "Si prega di trasferire USDT (CA: 0xc2132d...b58e8f) o USDC (CA: 0x2791bca...2de466) all'indirizzo seguente e attendere un po'.",
+            "pt-BR": "Por favor, transfira USDT (CA: 0xc2132d...b58e8f) ou USDC (CA: 0x2791bca...2de466) para o seguinte endereço e aguarde um pouco.",
+            "nl-NL": "Gelieve USDT (CA: 0xc2132d...b58e8f) of USDC (CA: 0x2791bca...2de466) over te maken naar het volgende adres en even te wachten.",
+            "tr-TR": "Lütfen USDT'yi (CA: 0xc2132d...b58e8f) veya USDC'yi (CA: 0x2791bca...2de466) aşağıdaki adrese transfer edin ve bir süre bekleyin.",
+            "vi-VN": "Vui lòng chuyển USDT (CA: 0xc2132d...b58e8f) hoặc USDC (CA: 0x2791bca...2de466) đến địa chỉ sau và đợi một chút.",
+            "th-TH": "โปรดโอน USDT (CA: 0xc2132d...b58e8f) หรือ USDC (CA: 0x2791bca...2de466) ไปยังที่อยู่ต่อไปนี้และรอสักครู่",
+            "id-ID": "Silakan transfer USDT (CA: 0xc2132d...b58e8f) atau USDC (CA: 0x2791bca...2de466) ke alamat berikut dan tunggu sebentar.",
+            "ms-MY": "Sila pindahkan USDT (CA: 0xc2132d...b58e8f) atau USDC (CA: 0x2791bca...2de466) ke alamat berikut dan tunggu sebentar.",
+            "hi-IN": "कृपया निम्नलिखित पते पर USDT (CA: 0xc2132d...b58e8f) या USDC (CA: 0x2791bca...2de466) ट्रांसफर करें और थोड़ी देर इंतजार करें।"
+        }
+    }, 
+    {
+        "name": "Arbitrum One",
+        "chainId": 42161,
+        "symbol": "ETH",
+        "chainName": "Arbitrum One",
+        "decimals": 18,
+        "rpc": "https://arb1.arbitrum.io/rpc",
+        "explorerUrl": "https://arbiscan.io",
+        "usdtContract": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "usdtDecimals": 6,
+        "usdSymbol": "USDT",
+        "usdtContracts": [{
+            "address"  :"0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "decimals" : 6,
+            "symbol"   : "USDT"
+        }, {
+            "address"  :"0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "decimals" : 6,
+            "symbol"   : "USDC"
+        }],
+        "depositDescription": "Please transfer USDT(CA: 0xFd086b...FCbb9) or USDC(CA: 0xaf88d0...8e5831) to the following address and wait for a while.",
+        "description": {
+            "en-US": "Please transfer USDT(CA: 0xFd086b...FCbb9) or USDC(CA: 0xaf88d0...8e5831) to the following address and wait for a while.",
+            "zh-CN": "请转账USDT(CA: 0xFd086b...FCbb9)或USDC(CA: 0xaf88d0...8e5831)到以下地址并等待一段时间。",
+            "zh-TW": "請轉帳USDT(CA: 0xFd086b...FCbb9)或USDC(CA: 0xaf88d0...8e5831)到以下地址並等待一段時間。",
+            "ja-JP": "USDT（CA: 0xFd086b...FCbb9）またはUSDC（CA: 0xaf88d0...8e5831）を次のアドレスに送金し、しばらくお待ちください。",
+            "ko-KR": "USDT(CA: 0xFd086b...FCbb9) 또는 USDC(CA: 0xaf88d0...8e5831)를 다음 주소로 전송하고 잠시 기다리십시오.",
+            "ru-RU": "Пожалуйста, переведите USDT (CA: 0xFd086b...FCbb9) или USDC (CA: 0xaf88d0...8e5831) на следующий адрес и подождите некоторое время.",
+            "es-ES": "Por favor, transfiera USDT (CA: 0xFd086b...FCbb9) o USDC (CA: 0xaf88d0...8e5831) a la siguiente dirección y espere un momento.",
+            "fr-FR": "Veuillez transférer des USDT (CA: 0xFd086b...FCbb9) ou USDC (CA: 0xaf88d0...8e5831) à l'adresse suivante et attendre un moment.",
+            "de-DE": "Bitte überweisen Sie USDT (CA: 0xFd086b...FCbb9) oder USDC (CA: 0xaf88d0...8e5831) an die folgende Adresse und warten Sie eine Weile.",
+            "it-IT": "Si prega di trasferire USDT (CA: 0xFd086b...FCbb9) o USDC (CA: 0xaf88d0...8e5831) all'indirizzo seguente e attendere un po'.",
+            "pt-BR": "Por favor, transfira USDT (CA: 0xFd086b...FCbb9) ou USDC (CA: 0xaf88d0...8e5831) para o seguinte endereço e aguarde um pouco.",
+            "nl-NL": "Gelieve USDT (CA: 0xFd086b...FCbb9) of USDC (CA: 0xaf88d0...8e5831) over te maken naar het volgende adres en even te wachten.",
+            "tr-TR": "Lütfen USDT'yi (CA: 0xFd086b...FCbb9) veya USDC'yi (CA: 0xaf88d0...8e5831) aşağıdaki adrese transfer edin ve bir süre bekleyin.",
+            "vi-VN": "Vui lòng chuyển USDT (CA: 0xFd086b...FCbb9) hoặc USDC (CA: 0xaf88d0...8e5831) đến địa chỉ sau và đợi một chút.",
+            "th-TH": "โปรดโอน USDT (CA: 0xFd086b...FCbb9) หรือ USDC (CA: 0xaf88d0...8e5831) ไปยังที่อยู่ต่อไปนี้และรอสักครู่",
+            "id-ID": "Silakan transfer USDT (CA: 0xFd086b...FCbb9) atau USDC (CA: 0xaf88d0...8e5831) ke alamat berikut dan tunggu sebentar.",
+            "ms-MY": "Sila pindahkan USDT (CA: 0xFd086b...FCbb9) atau USDC (CA: 0xaf88d0...8e5831) ke alamat berikut dan tunggu sebentar.",
+            "hi-IN": "कृपया निम्नलिखित पते पर USDT (CA: 0xFd086b...FCbb9) या USDC (CA: 0xaf88d0...8e5831) ट्रांसफर करें और थोड़ी देर इंतजार करें।"
+        }
+    }
+    
+
+]
