@@ -1,5 +1,11 @@
 # BEAVER PAYMENT
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/WhiteRiverBay/beaver-payment-install)
+![GitHub Release](https://img.shields.io/github/v/release/WhiteRiverBay/beaver-payment-install)
+![Static Badge](https://img.shields.io/badge/Telegram-%40ethan_ca-blue)
+
+
+
 ## 1 DOCS
 
 [DOC](https://docs.beaverpayment.com/)
@@ -21,34 +27,6 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
 ### Dashboard
 
 ![Dashboard](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x1.png)
-
-### Deposit wallets
-
-![Deposit Wallets](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x2.png)
-
-
-### Airdrop gas
-
-![Airdrop Gas](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x3.png)
-
-
-### Collect tokens
-
-![Collect Token](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x4.png)
-
-### Server status
-
-![Server Status](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x5.png)
-
-### Trades
-
-![Trades](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x6.png)
-
-### Settings
-
-![Settings - Chains](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x7.png)
-
-![Settings - Server Settings](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x8.png)
 
 ## Supported Chains
 
