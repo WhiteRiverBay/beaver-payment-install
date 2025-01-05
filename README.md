@@ -4,7 +4,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/WhiteRiverBay/beaver-payment-install)
 ![Static Badge](https://img.shields.io/badge/Telegram-%40ethan_ca-blue)
 
-
+**Building...**
 
 ## 1 DOCS
 
