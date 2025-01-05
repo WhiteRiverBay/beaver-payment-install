@@ -163,16 +163,16 @@ if [ "$REDIS_SSL" == "true" ]; then
     exit 1
   fi
 
-  if [ ! -f ".config/client.key" ]; then
-    echo "client.key is not found, please put it in the .config/ folder"
-    exit 1
-  fi
+  # if [ ! -f ".config/client.key" ]; then
+  #  echo "client.key is not found, please put it in the .config/ folder"
+  #  exit 1
+  # fi
 fi
 
 # redis_password
-echo "Please enter the redis password (if it is no password, keep it empty): "
-read REDIS_PASS
-TEMPLATE=${TEMPLATE//\{redis_password\}/$REDIS_PASS}
+# echo "Please enter the redis password (if it is no password, keep it empty): "
+# read REDIS_PASS
+# TEMPLATE=${TEMPLATE//\{redis_password\}/$REDIS_PASS}
 
 # do you want to set telegram bot?
 echo "Do you want to set telegram bot? (true/false): "
