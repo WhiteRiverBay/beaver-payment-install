@@ -17,21 +17,10 @@
 
 Beaver Payment is an self-hosted stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your own payment infrastructure, ensuring security, privacy, and flexibility.
 
-3 Try the first checkout
+## Try the first checkout
 
 [Pay 1.23 USD](https://example.beaverpayment.com/create-order)
 
-## UI Example
-
-![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s1.png)
-
-![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s2.png)
-
-## 4 Administrator UI - Desktop App
-
-### Dashboard
-
-![Dashboard](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x1.png)
 
 ## Supported Chains
 
@@ -54,3 +43,14 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
     <img src="https://raw.githubusercontent.com/WhiteRiverBay/icons/refs/heads/main/icons/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8.svg" alt="Token 4" width="60" height="60">
 </div>
 
+## UI Example
+
+![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s1.png)
+
+![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s2.png)
+
+## 4 Administrator UI - Desktop App
+
+### Dashboard
+
+![Dashboard](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x1.png)
