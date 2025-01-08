@@ -11,6 +11,8 @@
 
 **Building...**
 
+<img src="https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/logos/beaver.png" alt="logo" width="200px"></img>
+
 ## DOCS
 
 [中文](https://cn.docs.beaverpayment.com/)
