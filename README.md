@@ -11,21 +11,21 @@
 
 **Building...**
 
-## 1 DOCS
+## DOCS
 
-[CN](https://cn.docs.beaverpayment.com/)
+[中文](https://cn.docs.beaverpayment.com/)
 
 Beaver Payment is an self-hosted stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your own payment infrastructure, ensuring security, privacy, and flexibility.
 
-## 2 Checkout UI
+3 Try the first checkout
+
+[Pay 1.23 USD](https://example.beaverpayment.com/create-order)
+
+## UI Example
 
 ![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s1.png)
 
 ![](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-ui/refs/heads/main/public/examples/s2.png)
-
-## 3 Try the first checkout
-
-[Click here to create an test order](https://example.beaverpayment.com/create-order)
 
 ## 4 Administrator UI - Desktop App
 
