@@ -25,6 +25,7 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
 
 [Pay 1.23 USD](https://example.beaverpayment.com/create-order)
 
+[Example code (Worker on Cloudflare)](https://github.com/WhiteRiverBay/beaver-payment-example-worker)
 
 ## Supported Chains
 
