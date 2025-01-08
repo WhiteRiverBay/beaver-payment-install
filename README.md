@@ -2,7 +2,11 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/WhiteRiverBay/beaver-payment-install)
 ![GitHub Release](https://img.shields.io/github/v/release/WhiteRiverBay/beaver-payment-install)
-![Static Badge](https://img.shields.io/badge/Telegram-%40ethan_ca-blue)
+<a href="https://t.me/ethanatca"><img alt="" src="https://img.shields.io/badge/Telegram-%40ethanatca-blue" /></a>
+<a href="mailto:ethan@wrb.ltd"><img alt="Static Badge" src="https://img.shields.io/badge/Email-ethan%40wrb.ltd-blue">
+</a>
+![GitHub Repo stars](https://img.shields.io/github/stars/WhiteRiverBay/beaver-payment-install)
+
 
 **Building...**
 
