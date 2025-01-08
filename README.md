@@ -1,12 +1,16 @@
 # BEAVER PAYMENT
 
+<p align="center">
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/WhiteRiverBay/beaver-payment-install)
 ![GitHub Release](https://img.shields.io/github/v/release/WhiteRiverBay/beaver-payment-install)
 ![GitHub Repo stars](https://img.shields.io/github/stars/WhiteRiverBay/beaver-payment-install)
+</p>
 
+<p align="center">
 <a href="https://t.me/ethanatca"><img alt="" src="https://img.shields.io/badge/Telegram-%40ethanatca-blue" /></a>
 <a href="mailto:ethan@wrb.ltd"><img alt="Static Badge" src="https://img.shields.io/badge/Email-ethan%40wrb.ltd-blue">
 </a>
+</p>
 
 
 **Building...**
@@ -28,6 +32,7 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
 
 ## Supported Chains
 
+<p align="center">
 <div style="display: flex; justify-content: space-around; gap: 1rem;">
     <img src="https://16691707-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Frp4uTDHOtnP0lCdPHg1Z%2Fuploads%2Fej1nMoYv61lR1r2h1CGp%2Fethereum-eth-logo.svg?alt=media&token=30a99128-24ff-417e-9c49-2de5fd5728b5" alt="Ethereum" width="60" height="60">
     <img src="https://16691707-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Frp4uTDHOtnP0lCdPHg1Z%2Fuploads%2FSPO8mv3NNd5CzdC6NKYE%2Fbinance-smart-chain-bsc-seeklogo.svg?alt=media&token=85e02cc4-7597-4ee0-91c6-e02894b419f4" alt="Binance Smart Chain" width="60" height="60">
@@ -36,9 +41,11 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
     <img src="https://16691707-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Frp4uTDHOtnP0lCdPHg1Z%2Fuploads%2F2UUhpVjF4xVj2Ec4akm8%2Farbitrum-arb-logo.svg?alt=media&token=2fbe02d0-0414-4c27-8b6d-aee6cfc603cf" alt="Arbitrum" width="60" height="60">
     <img src="https://16691707-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Frp4uTDHOtnP0lCdPHg1Z%2Fuploads%2FSFlDKgJA6Itw4RWCXmpZ%2Ftron-trx-logo.svg?alt=media&token=154361ca-4357-40de-8536-e9459404afe0" alt="Tron" width="60" height="60">
 </div>
+</p>
 
 ## Supported Tokens
 
+<p align="center">
 <div style="display: flex; justify-content: space-around; gap: 1rem;">
     <img src="https://raw.githubusercontent.com/WhiteRiverBay/icons/refs/heads/main/icons/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.svg" alt="Tether USDT" width="60" height="60">
     <img src="https://raw.githubusercontent.com/WhiteRiverBay/icons/refs/heads/main/icons/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.svg" alt="Token 1" width="60" height="60">
@@ -46,6 +53,7 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
     <img src="https://raw.githubusercontent.com/WhiteRiverBay/icons/refs/heads/main/icons/0x6B175474E89094C44Da98b954EedeAC495271d0F.svg" alt="Token 3" width="60" height="60">
     <img src="https://raw.githubusercontent.com/WhiteRiverBay/icons/refs/heads/main/icons/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8.svg" alt="Token 4" width="60" height="60">
 </div>
+</p>
 
 ## UI Example
 
