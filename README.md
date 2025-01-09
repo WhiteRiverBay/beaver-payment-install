@@ -9,7 +9,7 @@
 </a>
 
 
-**Building...**
+**Still Building...**
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/logos/beaver.png" alt="logo" width="200px"></img>
