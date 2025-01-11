@@ -9,7 +9,7 @@ nonce=$(date +"%s%S")
 
 usage() {
     echo "Usage: $0 <orderId> <userId> <amount> <API_URL>"
-    echo "Example: $0 order123 user456 9.99 https://upay-api.xrocket.network/api/v1/order"
+    echo "Example: $0 order123 user456 9.99 https://upay-api.xrocket.network"
     exit 1
 }
 
@@ -47,7 +47,7 @@ data='{
     "notifyUrl" : "'$notifyUrl'"
 }'
 
-result=$(curl -X POST $API -H "Content-Type: application/json" -d "$data" | jq .)
+result=$(curl -X POST $API/api/v1/order -H "Content-Type: application/json" -d "$data" | jq .)
 
 echo $result
 CODE=$(echo $result | jq -r '.code')    
