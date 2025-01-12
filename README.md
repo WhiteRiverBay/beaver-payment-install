@@ -7,6 +7,7 @@
 <a href="https://t.me/ethanatca"><img alt="" src="https://img.shields.io/badge/Telegram-%40ethanatca-blue" /></a>
 <a href="mailto:ethan@wrb.ltd"><img alt="Static Badge" src="https://img.shields.io/badge/Email-ethan%40wrb.ltd-blue">
 </a>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0x99_Ethan?style=flat)
 
 
 **Still Building...**
