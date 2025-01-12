@@ -5,8 +5,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/WhiteRiverBay/beaver-payment-install)
 
 <a href="https://t.me/ethanatca"><img alt="" src="https://img.shields.io/badge/Telegram-%40ethanatca-blue" /></a>
-<a href="mailto:ethan@wrb.ltd"><img alt="Static Badge" src="https://img.shields.io/badge/Email-ethan%40wrb.ltd-blue">
-</a>
 <a href="https://x.com/intent/follow?screen_name=0x99_Ethan">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/0x99_Ethan">
 </a>
