@@ -1,5 +1,8 @@
 #!/bin/bash
 
+API=https://upay-api.xrocket.network
+UI=https://upay.xrocket.network
+
 SECRET=$(cat .env | grep PAYMENT_NOTIFY_SECRET | awk -F '=' '{print$2}')
 
 now=$(date +"%s")
@@ -8,8 +11,8 @@ expireAt=$((($now + 86400) * 1000))
 nonce=$(date +"%s%S")
 
 usage() {
-    echo "Usage: $0 <orderId> <userId> <amount> <API_URL>"
-    echo "Example: $0 order123 user456 9.99 https://upay-api.xrocket.network"
+    echo "Usage: $0 <orderId> <userId> <amount>"
+    echo "Example: $0 order123 user456 9.99"
     exit 1
 }
 
@@ -20,7 +23,6 @@ fi
 ORDER_ID=$1
 USER_ID=$2
 AMOUNT=$3
-API=$4
 
 echo "Creating order $ORDER_ID for user $USER_ID with amount $AMOUNT"
 
@@ -60,6 +62,6 @@ fi
 ID=$(echo $result | jq -r '.data.id')
 
 echo "Order created successfully: $ID"  
-echo "Redirecting to https://upay.xrocket.network/?id=$ID"
+echo "Redirecting to $UI/?id=$ID"
 
-open https://upay.xrocket.network/?id=$ID
+open $UI/?id=$ID
