@@ -19,6 +19,7 @@
 ## DOCS
 
 [中文](https://cn.docs.beaverpayment.com/)
+[English](https://en.docs.beaverpayment.com/)
 
 Beaver Payment is an self-hosted stable coin checkout system, designed for businesses and individuals seeking a reliable, autonomous, and censorship-resistant payment solution. With Beaver Payment, you gain full control over your own payment infrastructure, ensuring security, privacy, and flexibility.
 
