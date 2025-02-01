@@ -13,7 +13,7 @@
 **Still Building...**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/logos/beaver.png" alt="logo" width="200px"></img>
+<img src="https://github.com/WhiteRiverBay/beaver-payment-ui/blob/main/public/logo512.png?raw=true" alt="logo" width="200px"></img>
 </p>
 
 ## DOCS
