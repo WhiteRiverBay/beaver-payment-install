@@ -16,7 +16,7 @@ usage() {
     exit 1
 }
 
-if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ]; then
+if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] ; then
     usage
 fi
 
@@ -28,11 +28,13 @@ echo "Creating order $ORDER_ID for user $USER_ID with amount $AMOUNT"
 
 memo=test-memo-1
 mchId=1
+logo=https://upay.xrocket.network/logo192.png
 
 notifyUrl=https://example.beaverpayment.com/notify
 redirectUrl=https://github.com/WhiteRiverBay/beaver-payment-install
 
-base="amount=$AMOUNT&expiredAt=$expireAt&mchId=$mchId&memo=$memo&nonce=$nonce&notifyUrl=$notifyUrl&oid=$ORDER_ID&redirectUrl=$redirectUrl&timestamp=$nowInMs&uid=$USER_ID$SECRET"
+base="amount=$AMOUNT&expiredAt=$expireAt&logo=$logo&mchId=$mchId&memo=$memo&nonce=$nonce&notifyUrl=$notifyUrl&oid=$ORDER_ID&redirectUrl=$redirectUrl&timestamp=$nowInMs&uid=$USER_ID$SECRET"
+
 sign=$(printf $base | openssl dgst -sha256 | awk '{print $2}')
 
 data='{
@@ -40,6 +42,7 @@ data='{
     "uid": "'$USER_ID'",
     "amount": "'$AMOUNT'",
     "memo": "'$memo'",
+    "logo": "'$logo'",
     "expiredAt": '$expireAt',
     "timestamp": '$nowInMs',
     "mchId": "'$mchId'",
