@@ -10,3 +10,4 @@ services:
     volumes:
       - ./.config:/opt/conf/upay-api
       - /etc/hosts:/etc/hosts
+    user: "1000:1000"
