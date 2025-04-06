@@ -63,4 +63,4 @@ Beaver Payment is an self-hosted stable coin checkout system, designed for busin
 ![Dashboard](https://raw.githubusercontent.com/WhiteRiverBay/beaver-payment-install/refs/heads/main/assets/images/0x1.png)
 
 ## TODO
-- [ ]  EIP-7702支持
+- [ ]  EIP-7702
